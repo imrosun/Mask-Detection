@@ -1,4 +1,6 @@
-# Face Mask Detection
+It is developed to distinguish between masked and unmasked people.
+
+Face Mask Detection
 using Python
 
 Modules used:
