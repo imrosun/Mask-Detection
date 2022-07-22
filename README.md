@@ -1,7 +1,7 @@
 # Face Mask Detection
 It is developed to distinguish between masked and unmasked people.
 
-## Languages and Tools used  
+## Languages and tools used  
 <div>
   <img src="https://github.com/imrosun/Mask-Detection/blob/master/icon/Python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/imrosun/Mask-Detection/blob/master/icon/numPy.png" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
